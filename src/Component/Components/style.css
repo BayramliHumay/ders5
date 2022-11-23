@@ -1,0 +1,17 @@
+.subscribe-button_red{
+    background-color: red;
+    color:white;
+}
+.subscribe-button_blue{
+    background-color: blue;
+    color: white;
+}
+.subscribe-button {
+    border-radius: 2px;
+    width: 100px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    align-items: center;
+}
